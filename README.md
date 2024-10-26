@@ -1,18 +1,10 @@
-Here's a sample README for your Data Analyst Portfolio GitHub repository:
-
-Data Analyst Portfolio
-
-
 Welcome!
 
 This repository showcases my work as a data analyst, featuring a collection of projects that demonstrate my skills in data analysis, visualization, and storytelling.
 
-About Me
-
+ABOUT ME
 
 As a detail-driven data analyst, I help organizations make data-informed decisions by extracting insights from complex data sets. With expertise in [list specific tools and technologies, e.g., Excel, SQL, Tableau, Python, R], I excel at transforming data into actionable recommendations.
-
-Portfolio Projects
 
 
 1.  COVID PORTFORLIO PROJECT.sql
