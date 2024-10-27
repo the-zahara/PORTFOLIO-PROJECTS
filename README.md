@@ -45,7 +45,7 @@ View Creation:
 
 Creates a view to store and access the percentage of population vaccinated by country for future analysis and visualization.
 
-2. .....
+2. TABLEAU PROJECT: https://github.com/the-zahara/PORTFOLIO-PROJECTS
 
 3. .....
 
